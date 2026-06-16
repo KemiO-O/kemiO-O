@@ -349,7 +349,7 @@ I am currently training as a **Data Technician** and building my skills in data 
 - 🌱 I'm learning **Python (Pandas)**, **SQL**, and **Tableau**
 - 👯 I'm looking to collaborate on **data analysis projects**
 - 💬 Ask me about **my data journey**
-- 📫 How to reach me: **[oluwakemi.o.oni@gmail.com](mailto:oluwakemi.o.oni@gmail.com)**
+- 📫 How to reach me: **[kemiowoseni@gmail.com](mailto:kemiowoseni@gmail.com)**
 - ⚡ Fun fact: I'm the person everyone comes to when they can't find a file or figure out a system — I just like sorting out messy things!
 
 ---
@@ -398,10 +398,7 @@ I am currently training as a **Data Technician** and building my skills in data 
 <!-- Let's Connect -->
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <a href="mailto:kemiowoseni@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
