@@ -22,7 +22,7 @@ I'm on a journey into **data analysis**, where I turn messy data into clean insi
 - 🌱 I'm learning **Python (Pandas)**, **SQL**, and **Tableau**
 - 🎯 I hold a **Scrum Master certification** — Agile is my superpower
 - 💬 Ask me about **my data journey**
-- 📫 How to reach me: **[kemiowoseni@gmail.com](mailto:kemiowoseni@gmail.com)**
+- 📫 How to reach me: **[oluwakemi.o.oni@gmail.com](mailto:oluwakemi.o.oni@gmail.com)**
 - ⚡ Fun fact: I'm the person everyone comes to when they can't find a file or figure out a system — I just like sorting out messy things!
 
 ---
