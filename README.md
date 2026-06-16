@@ -3,132 +3,84 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Heyyy%2C%20I'm%20Kemi!&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
-<!-- Avatar & Wave -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" style="border-radius:50%;"/>
-  <br>
-  <span style="font-size:30px;">👋 Welcome to my GitHub</span>
-</h1>
+<h1 align="center">👋 Welcome to my GitHub</h1>
 
-<h3 align="center">Data Technician (in training) | Turning messy data into clean insights ✨</h3>
+<h3 align="center">
+Data Technician in Training | SQL · Python · Excel · Tableau · Power BI
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+detective+in+training;SQL+%7C+Python+%7C+Tableau;Building+my+data+portfolio;Occasionally+talks+to+code+%F0%9F%98%85" alt="Typing SVG"/>
+  <i>Turning messy data into meaningful insights — one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+detective+in+training;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Cleaning+messy+data+so+insights+can+shine;I+don%27t+just+collect+data%2C+I+turn+it+into+decisions" alt="Typing SVG"/>
 </p>
 
 ---
 
-<!-- About Me -->
-## ✨ A Little About Me
+## ✨ About Me
 
-I'm on a journey into **data analysis**, where I turn messy data into clean insights (and occasionally talk to my code when it doesn't behave 😅).
+Hi, I'm **Kemi** — a developing data professional with a love for solving problems, organising chaos, and finding useful stories hidden inside data.
 
-- 🔭 I'm currently building my **data portfolio**
-- 🌱 I'm learning **Python (Pandas)**, **SQL**, and **Tableau**
-- 🎯 I hold a **Scrum Master certification** — Agile is my superpower
-- 💬 Ask me about **my data journey**
-- 📫 How to reach me: **[Oluwakemi.o.oni@gmail.com](mailto:Oluwakemi.o.oni@gmail.com)**
-- ⚡ Fun fact: I'm the person everyone comes to when they can't find a file or figure out a system — I just like sorting out messy things!
+I'm currently building my data portfolio while growing my skills in **SQL, Python, Excel, Tableau, and Power BI**. I also hold a **Scrum Master certification**, which has strengthened my approach to teamwork, problem-solving, and delivering projects in an organised way.
+
+- 🔭 Currently building: **Data analysis portfolio projects**
+- 🌱 Learning: **Python, Pandas, SQL, Tableau, and Power BI**
+- 💼 Interested in: **Data analysis, reporting, dashboards, and business insights**
+- 🎯 Strength: Turning messy information into something clear and useful
+- 📫 Reach me: **[Oluwakemi.o.oni@gmail.com](mailto:Oluwakemi.o.oni@gmail.com)**
+- ⚡ Data joke: **My dataset said it was clean… then I found a column called `final_final_USE_THIS_ONE_v7`.**
 
 ---
 
-<!-- Skills Section Title -->
-<h2 align="center">🛠️ My Data Toolbox</h2>
-<p align="center"><i>Here's what I've been working with — aka my data superpowers 😉</i></p>
+## 🛠️ My Data Toolbox
 
-<br>
-
-<!-- Excel -->
-<h3 align="center">📊 Excel</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
-
-- Cleaning and organising messy data
-- Using pivot tables to spot trends
-- Creating quick dashboards and reports
-- Great for first looks at data
-
-> *"Excel is where I start... before things get serious"*
-
-<br>
-
-<!-- SQL -->
-<h3 align="center">💾 SQL</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-- Writing queries to extract and filter data
-- Joining tables to uncover relationships
-- Aggregating data for reporting
-- Working with Azure SQL Database
-
-> *"SQL is how I talk to databases"*
-
-<br>
-
-<!-- Python -->
-<h3 align="center">🐍 Python</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-- Analysing data with Pandas
-- Creating visualisations with Matplotlib
-- Building small programs and scripts
-- Automating repetitive tasks
-
-> *"Python is where I get creative with data"*
-
-<br>
-
-<!-- Tableau -->
-<h3 align="center">📈 Tableau</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
-- Creating interactive dashboards
-- Telling stories with data visualisations
-- Connecting to different data sources
-- Making insights easy to understand
-
-> *"Tableau is how I make data beautiful"*
-
-<br>
-
-<!-- Power BI -->
-<h3 align="center">📉 Power BI</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </p>
 
-- Building dynamic dashboards
-- Visualising key metrics
-- Sharing insights with stakeholders
-- Driving data-informed decisions
+### What I Use These For
 
-> *"Power BI brings data to life"*
-
----
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [**Sales Analysis**](#) | Analysed sales data to find trends and insights | Python, Pandas, Matplotlib |
-| [**SQL Queries**](#) | Complex SQL queries on a sample database | SQL, Azure |
-| [**Temperature Converter**](#) | Simple Python program converting Celsius to Fahrenheit | Python |
-| [**Lucky Number Generator**](#) | Python program splitting digits and adding them | Python |
-| [**Weather App**](#) | Basic weather app for travellers | Python |
+| Tool | What I Use It For |
+|---|---|
+| **Excel** | Cleaning data, pivot tables, quick reports, dashboards |
+| **SQL** | Querying databases, filtering data, joins, aggregations |
+| **Python** | Data analysis, automation, Pandas, Matplotlib |
+| **Tableau** | Interactive dashboards and visual storytelling |
+| **Power BI** | Business dashboards, KPI tracking, reporting |
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 My GitHub Stats</h2>
+## 📚 Professional Development
+
+| Training / Certification | Status |
+|---|---|
+| Data Technician Training | In Progress |
+| Scrum Master Certification | Completed |
+| Business Analyst Bootcamp | Completed |
+| Azure DP-900: Microsoft Azure Data Fundamentals | In Progress |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| **Sales Analysis** | Analysed sales data to identify patterns, trends, and business insights | Python, Pandas, Matplotlib |
+| **SQL Query Practice** | Wrote SQL queries to filter, join, and summarise data from sample databases | SQL, Azure SQL |
+| **Temperature Converter** | Built a simple Python program to convert Celsius to Fahrenheit | Python |
+| **Lucky Number Generator** | Created a Python program using digit splitting and arithmetic logic | Python |
+| **Weather App** | Built a beginner-friendly weather app concept for travellers | Python |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KemiO-O&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" width="48%"/>
@@ -141,8 +93,7 @@ I'm on a journey into **data analysis**, where I turn messy data into clean insi
 
 ---
 
-<!-- Let's Connect -->
-<h2 align="center">📫 Let's Connect</h2>
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:Oluwakemi.o.oni@gmail.com">
@@ -155,7 +106,10 @@ I'm on a journey into **data analysis**, where I turn messy data into clean insi
 
 ---
 
-<!-- Footer -->
+<p align="center">
+  <b>“I don’t just collect data — I turn it into decisions.”</b>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%"/>
 </p>
