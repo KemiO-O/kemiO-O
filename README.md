@@ -28,6 +28,123 @@ I'm on a journey into **data analysis**, where I turn messy data into clean insi
 - 🎯 I hold a **Scrum Master certification** — Agile is my superpower
 - 💬 Ask me about **my data journey**
 - 📫 How to reach me: **[Oluwakemi.o.oni@gmail.com](mailto:Oluwakemi.o.oni@gmail.com)**
+- ⚡ Fun fact: I'm the person everyone comes to when they can't find a file or figure out a system — I just like sorting out messy things!
+
+---
+
+<!-- Skills Section Title -->
+<h2 align="center">🛠️ My Data Toolbox</h2>
+<p align="center"><i>Here's what I've been working with — aka my data superpowers 😉</i></p>
+
+<br>
+
+<!-- Excel -->
+<h3 align="center">📊 Excel</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
+
+- Cleaning and organising messy data
+- Using pivot tables to spot trends
+- Creating quick dashboards and reports
+- Great for first looks at data
+
+> *"Excel is where I start... before things get serious"*
+
+<br>
+
+<!-- SQL -->
+<h3 align="center">💾 SQL</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+- Writing queries to extract and filter data
+- Joining tables to uncover relationships
+- Aggregating data for reporting
+- Working with Azure SQL Database
+
+> *"SQL is how I talk to databases"*
+
+<br>
+
+<!-- Python -->
+<h3 align="center">🐍 Python</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+- Analysing data with Pandas
+- Creating visualisations with Matplotlib
+- Building small programs and scripts
+- Automating repetitive tasks
+
+> *"Python is where I get creative with data"*
+
+<br>
+
+<!-- Tableau -->
+<h3 align="center">📈 Tableau</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+- Creating interactive dashboards
+- Telling stories with data visualisations
+- Connecting to different data sources
+- Making insights easy to understand
+
+> *"Tableau is how I make data beautiful"*
+
+<br>
+
+<!-- Power BI -->
+<h3 align="center">📉 Power BI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+</p>
+
+- Building dynamic dashboards
+- Visualising key metrics
+- Sharing insights with stakeholders
+- Driving data-informed decisions
+
+> *"Power BI brings data to life"*
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [**Sales Analysis**](#) | Analysed sales data to find trends and insights | Python, Pandas, Matplotlib |
+| [**SQL Queries**](#) | Complex SQL queries on a sample database | SQL, Azure |
+| [**Temperature Converter**](#) | Simple Python program converting Celsius to Fahrenheit | Python |
+| [**Lucky Number Generator**](#) | Python program splitting digits and adding them | Python |
+| [**Weather App**](#) | Basic weather app for travellers | Python |
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KemiO-O&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KemiO-O&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemiO-O&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="45%"/>
+</p>
+
+---
+
+<!-- Let's Connect -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
   <a href="mailto:Oluwakemi.o.oni@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
