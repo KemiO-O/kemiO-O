@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- 🌈 FUN BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a88,100:ffcc70&height=220&section=header&text=KemiO-O&fontSize=45&fontColor=ffffff" />
